@@ -5,7 +5,7 @@ This is a recipe generator website built using HTML, CSS, and JavaScript, and it
 
 ## Demo
 
-You can view a live demo of the website here: [Recipe Generator Website]()
+You can view a live demo of the website here: [Recipe Generator Website](https://awesome-recipes-generator.netlify.app)
 
 ## Features
 
